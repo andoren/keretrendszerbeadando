@@ -11,7 +11,7 @@
     <modules>
         <module>core</module>
         <module>service</module>
-        <module>dao.json</module>
+        <module>daojson</module>
         <module>controller</module>
         <module>web</module>
 
